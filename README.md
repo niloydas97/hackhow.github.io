@@ -1,2 +1,2 @@
-# niloydas97.github.io
+# news.github.io
 news site
